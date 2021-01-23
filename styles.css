@@ -1,0 +1,77 @@
+
+/*  Body Configuration*/
+body {
+    text-align: center;
+    background-color: #011F3F;
+}
+
+/*  Header Text*/
+h1 {
+    color: #FEF2BF;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin: 50px auto;
+}
+
+/*  Main Game Screen Panel*/
+/*
+.gamePanel {
+    text-align: center;
+}
+*/
+
+/*    heading*/
+.heading {
+    height: 200px;
+}
+
+/*  Squares*/
+.green {
+    border: solid black 10px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 40px;
+    margin: 25px 25px;
+    display: inline-block;    
+}
+
+.red {
+    border: solid black 10px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 40px;
+    margin: 25px 25px;
+    display: inline-block;    
+}
+
+.yellow {
+    border: solid black 10px;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 40px;
+    margin: 25px 25px;
+    display: inline-block;    
+}
+
+.blue {
+    border: solid black 10px;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 40px;
+    margin: 25px 25px;
+    display: inline-block;    
+}
+
+.shadow {
+    box-shadow: 0 0 15px 10px #fff;    
+}
+
+.redBG {
+    background-color: red;
+}
+
+
